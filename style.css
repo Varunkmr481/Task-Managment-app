@@ -19,3 +19,8 @@ button{
     width: 30px;
     box-sizing: border-box;
 }
+
+.b1 button {
+    background-color: black;
+    color: aqua;
+}
