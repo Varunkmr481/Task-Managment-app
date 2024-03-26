@@ -11,9 +11,11 @@ p {
 }
 
 button{
-    background-color: aqua;
-    color: black;
-    border-radius: 12px;
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 34, 34);
+    border-radius: 30px;
     padding: 10px;
+    margin: 10px;
     width: 30px;
+    box-sizing: border-box;
 }
