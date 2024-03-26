@@ -32,3 +32,8 @@ button{
 .animation{
     transition: all ease-out .4s;
 }
+
+.footer{
+    padding: 40px;
+    color: wheat;
+}
