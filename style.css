@@ -28,3 +28,7 @@ button{
 .background-image{
     background: url('....');
 }
+
+.animation{
+    transition: all ease-out .4s;
+}
