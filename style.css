@@ -24,3 +24,7 @@ button{
     background-color: black;
     color: aqua;
 }
+
+.background-image{
+    background: url('....');
+}
