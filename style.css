@@ -3,3 +3,9 @@ p {
     font-size: medium;
     padding: 12px;
 }
+
+.heading p{
+    color: black;
+    font-size: 6px;
+    padding: 6px;
+}
